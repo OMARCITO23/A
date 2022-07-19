@@ -30,8 +30,8 @@ span{
   font-family:monospace;
   white-space:nowrap;
   border-right:4px solid;
-  width:15ch;
-  animation:typing 3.3s steps(15),
+  width:16ch;
+  animation:typing 3.3s steps(16),
 	blink .6s infinite step-end alternate;
 	overflow: hidden;
 }
